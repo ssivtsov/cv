@@ -1,0 +1,187 @@
+{
+  "name": "Sergey Sivtsov",
+  "title": ".NET Software Engineer",
+  "summary": ".NET developer with 6+ years of enterprise web application development. Experienced in cutting-edge technologies such as ASP.NET Core, React, gRPC.",
+  "personalInfo": {
+    "phone": "+375297425342",
+    "email": "siarhei_siutsou@outlook.com",
+    "skype": "live:sergey_sivtsov",
+    "linkedin": "https://www.linkedin.com/in/ssivtsov"
+  },
+  "languages": [
+    {
+      "name": "Russian",
+      "value": "Native",
+      "rate": "5"
+    },
+    {
+      "name": "English",
+      "value": "Intermediate",
+      "rate": "3"
+    }
+  ],
+  "skills": [
+    "C#",
+    "ASP.NET Core",
+    "gRPC",
+    "React.js",
+    "Redux",
+    "AngularJS",
+    "Dapper",
+    "MS SQL",
+    "PostgreSQL",
+    "Docker",
+    "ASP.NET MVC",
+    "CSS",
+    "SASS",
+    "EF",
+    "LINQ",
+    "MsTest",
+    "ASP.NET",
+    "WCF",
+    "WinForms",
+    "ADO.NET"
+  ],
+  "software": [
+    "Visual Studio",
+    "Azure DevOps Server",
+    "Git",
+    "Webpack",
+    "MS SQL Management Studio",
+    "DBeaver",
+    "PLSQL Developer"
+  ],
+  "skillsSummary": [
+    "Strong technical knowledge in design and implementation of enterprise applications based on .NET Framework",
+    "Good knowledge of modern development techniques, patterns and trends",
+    "Experienced in data ETL implementation",
+    "Experienced in working with Agile (Scrum) methodology",
+    "Experienced in working with Azure DevOps Server, configuring builds/deployments",
+    "Analytical, communication and problem-solving skills"
+  ],
+  "projectExpirience": [
+    {
+      "title": ".NET Software Engineer",
+      "company": "Oxagile",
+      "startDate": "2017-08",
+      "endDate": "2020-03",
+      "projects": [
+        {
+          "projectName": "A Groundbreaking AdTech Automation Platform for the TV Space",
+          "projectOverview": "An innovative ad tech platform encompassing data-driven, automated solutions and services designed to greatly facilitate the buying and selling of advertising in the TV space. The system acts as a unified, end-to-end TV ad marketplace aiming to bring together advertisers, buyers, and TV stations across the United States. The platform offers real-time information on avails, seamless integration with Mediaocean and Strata, transparent order placement, validation, and management, and sophisticated reporting for 100% process transparency.",
+          "position": ".NET Full Stack Developer",
+          "teamSize": "9",
+          "duration": "3 years",
+          "responsibilities": [
+            "Estimating tasks",
+            "Implementation of business logic on backend as well as frontend using cutting-edge technologies",
+            "Developing of gRPC services",
+            "Code review and refactoring, bug fixing",
+            "Writing unit and automated tests",
+            "Creating builds, setting up environments, configuring deployments",
+            "Integration with OKTA (single sign-on solution)",
+            "Communication with a customer on a daily basis"
+          ],
+          "technologies": [
+            "ASP.NET MVC",
+            "ASP.NET Core",
+            "AngularJS",
+            "React.js",
+            "Dapper",
+            "MS SQL Server",
+            "PostgreSQL",
+            "Amazon EKS",
+            "Amazon S3",
+            "SASS",
+            "Bootstrap",
+            "Webpack"
+          ]
+        }
+      ]
+    },
+    {
+      "title": ".NET Software Engineer",
+      "company": "EPAM Systems",
+      "startDate": "2014-05",
+      "endDate": "2017-08",
+      "projects": [
+        {
+          "projectName": "Concierge",
+          "projectOverview": "Concierge is a special service to assist customers with all aspect of Worker Compensation claim. The application gives ability to create new requests with different medical service, search/filtering requests. The main page of application has many dynamic forms that loaded depending on the user actions. This functionality works on AJAX callbacks.",
+          "position": ".NET Developer",
+          "teamSize": "9",
+          "duration": "1.2 years",
+          "responsibilities": [
+            "Estimating tasks",
+            "Implementing of business logic of system components",
+            "Creating dynamic panels",
+            "Implementing of validation",
+            "Implementing of Direct Read/Write beetween partner systems",
+            "Developing  of modules to integrate application with other services"
+          ],
+          "technologies": [
+            "ASP.NET",
+            "WCF",
+            "ADO.NET",
+            "Oracle DB",
+            "DevExpress"
+          ]
+        },
+        {
+          "projectName": "EQueue",
+          "projectOverview": "The purpose of the project is to help with processing emails and faxes like Outlook.",
+          "position": ".NET Developer",
+          "teamSize": "6",
+          "duration": "1.6 years",
+          "responsibilities": [
+            "Estimating tasks, creating project plans",
+            "Implementing of business requirements",
+            "Developing optimized counting functionality for folders with records",
+            "Implementing of new email/reply/forward actions",
+            "Creating LDAP address book, IMAP collector",
+            "Adding support of embedded attachments to records",
+            "Developing of ownership functionality",
+            "Developing of plugins to integrate with other applications",
+            "Implementing backup mechanism to restore unsuccessfully uploaded records to the database based on Oracle Advanced Queuing. The database used to trigger different instances of services running under the load balancer to restore backuped records from the file system."
+          ],
+          "technologies": [
+            "Win Forms",
+            "MAF",
+            "MEF",
+            "WCF",
+            "ADO.NET",
+            "Oracle DB",
+            "DevExpress"
+          ]
+        },
+        {
+          "title": ".NET Software Engineer",
+          "projectName": "ECH Agent",
+          "projectOverview": "ECH Agent is an application that serves for interception of incoming calls through Avaya Softphone, retrieving the UUI from a phone call and provide more detailed information about the caller to other internal applications.",
+          "position": ".NET Developer",
+          "teamSize": "5",
+          "duration": "5 months",
+          "responsibilities": [
+            "Implementing the part responsible for intercepting calls",
+            "Creating plugins for integration with internal applications"
+          ],
+          "technologies": [
+            "Win Forms",
+            "MEF",
+            "WCF",
+            "ADO.NET",
+            "Oracle DB",
+            "DevExpress"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": {
+    "name": "Belarusian-Russian University",
+    "specialization": "Automated data processing and management",
+    "degree": "Specialist",
+    "startDate": "2010 ",
+    "endDate": "2015"
+  }
+}
