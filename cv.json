@@ -1,8 +1,9 @@
 {
   "name": "Sergey Sivtsov",
-  "title": ".NET Software Engineer",
+  "title": "Software Engineer",
   "summary": ".NET developer with 6+ years of enterprise web application development. Experienced in cutting-edge technologies such as ASP.NET Core, React, gRPC.",
   "personalInfo": {
+    "location": "Minsk, Belarus",
     "phone": "+375297425342",
     "email": "siarhei_siutsou@outlook.com",
     "skype": "live:sergey_sivtsov",
