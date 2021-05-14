@@ -1,7 +1,7 @@
 {
   "name": "Sergey Sivtsov",
   "title": "Software Engineer",
-  "summary": ".NET developer with 6+ years of enterprise web application development. Experienced in cutting-edge technologies such as ASP.NET Core, React, gRPC.",
+  "summary": "Highly-skilled and motivated developer with 7+ years of enterprise web application development. I'm interested to work with cutting-edge technologies and cloud solutions.",
   "personalInfo": {
     "location": "Minsk, Belarus",
     "phone": "+375297425342",
@@ -24,20 +24,22 @@
   "skills": [
     "C#",
     "ASP.NET Core",
+    "Angular",
     "gRPC",
     "React.js",
     "Redux",
-    "AngularJS",
     "Dapper",
     "MS SQL",
     "PostgreSQL",
     "Docker",
     "ASP.NET MVC",
+    "AngularJS",
     "CSS",
     "SASS",
-    "EF",
     "LINQ",
     "MsTest",
+    "NUnit",
+    "xUnit",
     "ASP.NET",
     "WCF",
     "WinForms",
@@ -47,6 +49,7 @@
     "Visual Studio",
     "Azure DevOps Server",
     "Git",
+    "Postman",
     "Webpack",
     "MS SQL Management Studio",
     "DBeaver",
@@ -58,9 +61,43 @@
     "Experienced in data ETL implementation",
     "Experienced in working with Agile (Scrum) methodology",
     "Experienced in working with Azure DevOps Server, configuring builds/deployments",
+    "Working knowledge on Cloud Platforms like Azure",
     "Analytical, communication and problem-solving skills"
   ],
   "projectExpirience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Ergalio/Silicon Mint",
+      "startDate": "2020-04",
+      "endDate": "Present",
+      "projects": [
+        {
+          "projectName": "Contractor at Elevate company",
+          "projectOverview": "An innovative online credit solutions provide immediate relief to customers today and help them build a brighter financial future.",
+          "position": "Full Stack Developer",
+          "teamSize": "5",
+          "duration": "2 years",
+          "responsibilities": [
+            "Code auditing, perfomance optimization",
+            "Developing of Azure Functions",
+            "Integration with Plaid (securely connection banks to the apps)",
+            "Configure build/release pipelines, setting up environments",
+            "Be a part of international team"
+          ],
+          "technologies": [
+            "ASP.NET Core",
+            "Angular",
+            "Dapper",
+            "MS SQL Server",
+            "Azure Functions",
+            "Azure Cosmos DB",
+            "Azure Service Bus",
+            "Azure App Services",
+            "Azure Api Management"
+          ]
+        }
+      ]
+    },
     {
       "title": ".NET Software Engineer",
       "company": "Oxagile",
